@@ -1,0 +1,15 @@
+{
+  "originHash" : "63a875f42cf716c46bbd246b67dd73723be30e9bd9cdfa683b8214fdac8d64e9",
+  "pins" : [
+    {
+      "identity" : "appsflyerframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppsFlyerSDK/AppsFlyerFramework",
+      "state" : {
+        "revision" : "43147aff398c1d9973f2f5dbe1193ad5d2e82d74",
+        "version" : "6.17.7"
+      }
+    }
+  ],
+  "version" : 3
+}
